@@ -33,6 +33,10 @@ body {
 
   display: flex;
 }
+h1{
+  margin: 3em;
+  font-size: x-large;
+}
 
 /* GENERAL */
 a:link,
